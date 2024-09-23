@@ -4,14 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My GrapesJS Project</title>
-  <!-- Link the generated CSS file -->
-  <link rel="stylesheet" href="css/grapes.min.css"> <!-- Adjust to the correct path -->
+  <!-- Include GrapesJS CSS -->
+  <link href="https://unpkg.com/grapesjs/dist/css/grapes.min.css" rel="stylesheet">
+  <style>
+    body, html {
+      height: 100%;
+      margin: 0;
+    }
+    #gjs {
+      height: 100%;
+      border: 1px solid #ccc;
+    }
+  </style>
 </head>
 <body>
-  <!-- This is where your GrapesJS project will be rendered -->
   <div id="gjs"></div>
 
-  <!-- Include the bundled JavaScript -->
+  <!-- Include GrapesJS via CDN -->
+  <script src="https://unpkg.com/grapesjs/dist/grapes.min.js"></script>
+
+  <!-- Include your custom JavaScript -->
   <script src="bundle.js"></script>
 </body>
 </html>
