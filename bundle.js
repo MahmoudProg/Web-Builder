@@ -1,18 +1,18 @@
-import _1_Section_JS from './scripts/_1_Section.js';
-import _2_Section_JS from './scripts/_2_Section.js';
-import _3_Section_JS from './scripts/_3_Section.js';
-import _Button_JS from './scripts/_Button.js';
-import _divider_JS from './scripts/_divider.js';
-import _3_7_Section_JS from './scripts/_3_7_Section.js';
-import _Text_JS from './scripts/_Text.js';
-import _BigText_JS from './scripts/_BigText.js';
-import _Label_JS from './scripts/_Label.js';
-import _Link_JS from './scripts/_Link.js';
-import _Hero_Section_JS from './scripts/_Hero_Section.js';
-import _Image_JS from './scripts/_Image.js';
-import _Video_JS from './scripts/_Video.js';
-import _Map_JS from './scripts/_Map.js';
-import _Quote_JS from './scripts/_Quote.js';
+import _1_Section_JS from '../scripts/_1_Section.js';
+// import _2_Section_JS from './scripts/_2_Section.js';
+// import _3_Section_JS from './scripts/_3_Section.js';
+// import _Button_JS from './scripts/_Button.js';
+// import _divider_JS from './scripts/_divider.js';
+// import _3_7_Section_JS from './scripts/_3_7_Section.js';
+// import _Text_JS from './scripts/_Text.js';
+// import _BigText_JS from './scripts/_BigText.js';
+// import _Label_JS from './scripts/_Label.js';
+// import _Link_JS from './scripts/_Link.js';
+// import _Hero_Section_JS from './scripts/_Hero_Section.js';
+// import _Image_JS from './scripts/_Image.js';
+// import _Video_JS from './scripts/_Video.js';
+// import _Map_JS from './scripts/_Map.js';
+// import _Quote_JS from './scripts/_Quote.js';
 
 
 
@@ -204,47 +204,47 @@ editor.BlockManager.add('card-component-block', {
 const __1_Section_JS = _1_Section_JS();
 editor.BlockManager.add(__1_Section_JS.label, __1_Section_JS);
 
-const __2_Section_JS = _2_Section_JS();
-editor.BlockManager.add(__2_Section_JS.label, __2_Section_JS);
+// const __2_Section_JS = _2_Section_JS();
+// editor.BlockManager.add(__2_Section_JS.label, __2_Section_JS);
 
-const __3_Section_JS = _3_Section_JS();
-editor.BlockManager.add(__3_Section_JS.label, __3_Section_JS);
+// const __3_Section_JS = _3_Section_JS();
+// editor.BlockManager.add(__3_Section_JS.label, __3_Section_JS);
 
-const __3_7_Section_JS = _3_7_Section_JS();
-editor.BlockManager.add(__3_7_Section_JS.label, __3_7_Section_JS);
+// const __3_7_Section_JS = _3_7_Section_JS();
+// editor.BlockManager.add(__3_7_Section_JS.label, __3_7_Section_JS);
 
-const __Button_JS = _Button_JS();
-editor.BlockManager.add(__Button_JS.label, __Button_JS);
+// const __Button_JS = _Button_JS();
+// editor.BlockManager.add(__Button_JS.label, __Button_JS);
 
-const __divider_JS = _divider_JS();
-editor.BlockManager.add(__divider_JS.label, __divider_JS);
+// const __divider_JS = _divider_JS();
+// editor.BlockManager.add(__divider_JS.label, __divider_JS);
 
-const __Text_JS = _Text_JS();
-editor.BlockManager.add(__Text_JS.label, __Text_JS);
+// const __Text_JS = _Text_JS();
+// editor.BlockManager.add(__Text_JS.label, __Text_JS);
 
-// const __BigText_JS = _BigText_JS();
-// editor.BlockManager.add(__BigText_JS.label, __BigText_JS);
+// // const __BigText_JS = _BigText_JS();
+// // editor.BlockManager.add(__BigText_JS.label, __BigText_JS);
 
-// const __Label_JS = _Label_JS();
-// editor.BlockManager.add(__Label_JS.label, __Label_JS);
+// // const __Label_JS = _Label_JS();
+// // editor.BlockManager.add(__Label_JS.label, __Label_JS);
 
-const __Link_JS = _Link_JS();
-editor.BlockManager.add(__Link_JS.label, __Link_JS);
+// const __Link_JS = _Link_JS();
+// editor.BlockManager.add(__Link_JS.label, __Link_JS);
 
-const __Hero_Section_JS = _Hero_Section_JS();
-editor.BlockManager.add(__Hero_Section_JS.label, __Hero_Section_JS);
+// const __Hero_Section_JS = _Hero_Section_JS();
+// editor.BlockManager.add(__Hero_Section_JS.label, __Hero_Section_JS);
 
-const __Image_JS = _Image_JS();
-editor.BlockManager.add(__Image_JS.label, __Image_JS);
+// const __Image_JS = _Image_JS();
+// editor.BlockManager.add(__Image_JS.label, __Image_JS);
 
-const __Video_JS = _Video_JS();
-editor.BlockManager.add(__Video_JS.label, __Video_JS);
+// const __Video_JS = _Video_JS();
+// editor.BlockManager.add(__Video_JS.label, __Video_JS);
 
-// const __Map_JS = _Map_JS();
-// editor.BlockManager.add(__Map_JS.label, __Map_JS);
+// // const __Map_JS = _Map_JS();
+// // editor.BlockManager.add(__Map_JS.label, __Map_JS);
 
-const __Quote_JS = _Quote_JS();
-editor.BlockManager.add(__Quote_JS.label, __Quote_JS);
+// const __Quote_JS = _Quote_JS();
+// editor.BlockManager.add(__Quote_JS.label, __Quote_JS);
 
 
 
