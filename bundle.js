@@ -1,4 +1,4 @@
-import _1_Section_JS from 'scripts/_1_Section.js';
+import _1_Section_JS from './scripts/_1_Section.js';
 import _2_Section_JS from './scripts/_2_Section.js';
 import _3_Section_JS from './scripts/_3_Section.js';
 import _Button_JS from './scripts/_Button.js';
