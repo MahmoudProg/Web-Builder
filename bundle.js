@@ -14,7 +14,7 @@
 // import _Map_JS from './scripts/_Map.js';
 // import _Quote_JS from './scripts/_Quote.js';
 
-import _2_Section_JS from './scripts/Axs.js';
+import _2_Section_JS from './scripts/_Axs.js';
 
 
 
